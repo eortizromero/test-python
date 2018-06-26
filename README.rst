@@ -10,8 +10,8 @@ Ejemplo:
 
 Tenemos dos tablas (users, groups), con una columna y 3 registros cada una.
 
-**table_groups**   **table_users**
-
++--------------+  +--------------+
+| table_groups |  | table_users  |
 +--------------+  +--------------+
 |   user_id    |  |   	  id     |
 +==============+  +==============+
